@@ -3,7 +3,6 @@
 [![Python Version](https://img.shields.io/badge/python-3.11%20%7C%203.12%20%7C%203.13-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/framework-Streamlit-FF4B4B.svg)](https://streamlit.io/)
 [![Tests](https://img.shields.io/badge/tests-pytest%2015%20passed-success.svg)](https://docs.pytest.org/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 An end-to-end, dataset-agnostic quantitative and qualitative survey intelligence platform. Built in Python and Streamlit, it automates the transition from raw, messy spreadsheet dumps to rigorous statistical inference, NLP aspect extraction, psychometrics, and prescriptive decision simulation.
 
@@ -115,5 +114,5 @@ Healthcare Patient Experience: Clinic wait times, physician communication CSAT, 
 
 Telecom Service Experience: Network reliability, customer service NPS, plan pricing, and churn risks.
 
-📄 License
-This project is distributed under the MIT License. See LICENSE for details.
+📄 AUTHOR
+ ARUP BASU
