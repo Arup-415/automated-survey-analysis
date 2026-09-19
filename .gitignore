@@ -5,3 +5,8 @@ __pycache__/
 .pytest_cache/
 *.pyc
 *.log
+
+*.pdf
+build_handbook_pdf.py
+build_layman_handbook_pdf.py
+github repo link.txt
